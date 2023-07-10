@@ -19,7 +19,7 @@
         "express": "^4.17.1",
         "got": "^11.5.2",
         "helmet": "^3.23.3",
-        "nodemon": "^2.0.16",
+        "nodemon": "^3.0.1",
         "tough-cookie": "^4.0.0",
         "tunnel": "0.0.6"
     }
